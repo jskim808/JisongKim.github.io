@@ -7,3 +7,7 @@
 #
 layout: default
 ---
+{% for section in site.data.content %}
+  ## {{ section.title }}
+  {{ section.content | markdownify }}
+{% endfor %}

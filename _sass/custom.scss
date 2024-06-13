@@ -1,0 +1,30 @@
+.education-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.education-details {
+  flex: 1;
+}
+
+.education-title {
+  font-weight: bold;
+}
+
+.education-sub-title {
+  font-style: italic;
+  color: #555;
+}
+
+.education-caption {
+  color: #777;
+  font-size: 0.9em;
+}
+
+.education-date {
+  flex: 0 0 150px;
+  text-align: right;
+  color: #777;
+  font-size: 0.9em;
+}
