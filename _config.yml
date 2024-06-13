@@ -72,12 +72,12 @@ content:
     content:
       - layout: left
         title: Hanyang University, Seoul, South Korea
-        sub_title: Ph.D. in Artificial Intelligence (Advisor: Prof. Jun Won Choi)
+        # sub_title: Ph.D. in Artificial Intelligence (Advisor: Prof. Jun Won Choi)
         caption: Mar 2024 - Present
 
     - layout: left
         title: Hanyang University, Seoul, South Korea
-        sub_title: M.S. in Artificial Intelligence (Advisor: Prof. Jun Won Choi)
+        # sub_title: M.S. in Artificial Intelligence (Advisor: Prof. Jun Won Choi)
         caption: Mar 2022 - Feb 2024
 
     - layout: left
