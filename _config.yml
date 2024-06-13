@@ -56,16 +56,16 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Autonomous Driving</mark>, <mark>Radar-based 3D Object Detection</mark>, and <mark>Machine Learning</mark>
 
-content:
-  - title: Overview
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Research interest areas:
-      - Perception for intelligent vehicles and mobile robots
-      - Knowledge Distillation for 3D object detection
-      - Radar, Camera and LiDAR-based 3D object detection
-      - Sensor fusion-based 3D object detection and tracking
-      - Radar based point cloud generation
+# content:
+#   - title: Overview
+#     layout: text
+#     content: | # this will include new lines to allow paragraphs
+#       Research interest areas:
+#       - Perception for intelligent vehicles and mobile robots
+#       - Knowledge Distillation for 3D object detection
+#       - Radar, Camera and LiDAR-based 3D object detection
+#       - Sensor fusion-based 3D object detection and tracking
+#       - Radar based point cloud generation
   
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
