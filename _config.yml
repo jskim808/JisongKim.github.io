@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Geonho Bang
-title: PhD Student in Autonomous Driving Research
+title: Autonomous Driving Researcher (PhD Candidate)
 email: ghbang@spa.hanyang.ac.kr
 website: www.github.com/geonhobang
 
@@ -96,19 +96,19 @@ content:
     layout: text # Type of content section (list/text)
     content: |
     
-      ## **<a href="https://arxiv.org/pdf/2403.05061" style="color:blue;text-decoration:none;">RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features</a>**
+      ## **<a href="https://arxiv.org/pdf/2403.05061" style="color:blue;text-decoration:none;" target="_blank">RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features</a>**
       *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
       **Geonho Bang**, Kwangjin Choi*, Jisong Kim, Minjae Seong, Dongsuk Kum and Jun Won Choi
      
       <br>
-      ## **<a href="https://arxiv.org/pdf/2403.01663" style="color:blue;text-decoration:none;">PillarGen: Enhancing Radar Point Cloud Density and Quality via Pillar-based Point Generation Network</a>**
+      ## **<a href="https://arxiv.org/pdf/2403.01663" style="color:blue;text-decoration:none;" target="_blank">PillarGen: Enhancing Radar Point Cloud Density and Quality via Pillar-based Point Generation Network</a>**
       *IEEE International Conference on Robotics and Automation (ICRA), 2024.*
 
       **Geonho Bang**, Jisong Kim*, Kwangjin Choi, Minjae Seong, Jaechang Yoo, Eunjon Pyo and Jun Won Choi
 
       <br>
-      ## **<a href="https://arxiv.org/pdf/2403.01663" style="color:blue;text-decoration:none;">RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection</a>**
+      ## **<a href="https://arxiv.org/pdf/2403.01663" style="color:blue;text-decoration:none;" target="_blank">RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection</a>**
       *IEEE International Conference on Robotics and Automation (ICRA), 2024.*
      
       Jisong Kim*, Minjae Seong*, **Geonho Bang**, Dongsuk Kum, and Jun Won Choi
