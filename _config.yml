@@ -67,23 +67,23 @@ content:
       - Sensor fusion-based 3D object detection and tracking
       - Radar based point cloud generation
   
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Hanyang University, Seoul, South Korea
-        # sub_title: Ph.D. in Artificial Intelligence (Advisor: Prof. Jun Won Choi)
-        caption: Mar 2024 - Present
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: Hanyang University, Seoul, South Korea
+  #       # sub_title: Ph.D. in Artificial Intelligence (Advisor: Prof. Jun Won Choi)
+  #       caption: Mar 2024 - Present
 
-    - layout: left
-        title: Hanyang University, Seoul, South Korea
-        # sub_title: M.S. in Artificial Intelligence (Advisor: Prof. Jun Won Choi)
-        caption: Mar 2022 - Feb 2024
+  #   - layout: left
+  #       title: Hanyang University, Seoul, South Korea
+  #       # sub_title: M.S. in Artificial Intelligence (Advisor: Prof. Jun Won Choi)
+  #       caption: Mar 2022 - Feb 2024
 
-    - layout: left
-        title: Kookmin University, Seoul, South Korea
-        sub_title: B.S. in Automobile and IT Convergence
-        caption: Mar 2016 - Feb 2022
+  #   - layout: left
+  #       title: Kookmin University, Seoul, South Korea
+  #       sub_title: B.S. in Automobile and IT Convergence
+  #       caption: Mar 2016 - Feb 2022
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
