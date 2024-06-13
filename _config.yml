@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/ghbang_profile.jpg
+about_profile_image: images/Jisong-Kim.png
 about_content: | # this will include new lines to allow paragraphs
   Hi! I'm Jisong Kim, a dedicated Ph.D. student in Electrical Engineering at Hanyang University, Seoul, working under the guidance of Prof. Jun Won Choi. 
   My research focuses on deep learning-based perception, specifically 3D object detection and tracking using cameras, radar, and LiDAR. 
