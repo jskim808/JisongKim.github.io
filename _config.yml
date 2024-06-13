@@ -48,9 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/ghbang_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Geonho Bang and I'm a PhD student at the SPA Lab under Professor Junwon Choi at Seoul National University. 
+  My research focuses on perception systems for autonomous driving, specifically 3D object recognition using radar sensors.
+  Throughout my PhD journey, I have worked on advanced radar-based perception algorithms to enhance the safety and efficiency of self-driving cars.
+  I have had the opportunity to collaborate with leading automotive companies such as Hyundai Motors and HL Klemove, which has provided me with valuable industry insights and practical experience.
+  My work has been recognized at prestigious conferences like CVPR and ICRA, where I have submitted several research papers.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Autonomous Driving</mark>, <mark>Radar-based 3D Object Recognition</mark>, and <mark>Machine Learning</mark>
 
 content:
   - title: Projects # Title for the section
